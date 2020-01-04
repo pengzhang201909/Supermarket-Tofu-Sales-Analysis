@@ -8,5 +8,5 @@ So the requirement of analysis on prediction of order quantity along time is cri
 
 I chose Tableau as visualization tool to do the job , and data sets used were from an Asian supermarket in Upstate NY.
 
-![GitHub Logo](/images/logo.png)
+![https://github.com/pengzhang201909/Supermarket-Tofu-Sales-Analysis/blob/master/SilkenTofu.png](/images/logo.png)
 Format: ![Alt Text](url)
