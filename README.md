@@ -6,7 +6,7 @@ Due to ingredient and manufacture process of Tofu, most kind of them only have l
 
 So the requirement of analysis on prediction of order quantity along time is critical to a supermarket which sells a lot of tofu throughout entire year.
 
-I chose Tableau as visualization tool to do the job , and data sets used were from an Asian supermarket in Upstate NY.
+I chose Tableau as visualization tool to do the job , and data sets used were from an asian supermarket in Upstate NY.
 
 ![](https://github.com/pengzhang201909/Supermarket-Tofu-Sales-Analysis/blob/master/SilkenTofu.png)
 
